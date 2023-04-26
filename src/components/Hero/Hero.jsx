@@ -65,7 +65,7 @@ const Hero = () => {
             transition={{ duration: 2, type: "spring" }}
             className="image-container"
           >
-            <img src="/public/hero-image.png" alt="" />
+            <img src="./hero-image.png" alt="" />
           </motion.div>
         </div>
       </div>

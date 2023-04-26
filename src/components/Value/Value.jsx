@@ -18,7 +18,7 @@ const Value = () => {
       <div className="paddings innerWidth flexCenter value-container">
         <div className="value-left">
           <div className="image-container">
-            <img src="/public/value.png" alt="" />
+            <img src="./value.png" alt="" />
           </div>
         </div>
         <div className="flexColStart value-right">
